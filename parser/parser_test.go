@@ -2,8 +2,8 @@ package parser
 
 import (
 	"fmt"
-	"monkey-go/ast"
-	"monkey-go/lexer"
+	"bat-go/ast"
+	"bat-go/lexer"
 	"testing"
 )
 

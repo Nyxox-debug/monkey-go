@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"monkey-go/ast"
-	"monkey-go/lexer"
-	"monkey-go/token"
+	"bat-go/ast"
+	"bat-go/lexer"
+	"bat-go/token"
 )
 
 type Parser struct {

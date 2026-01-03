@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"monkey-go/token"
+	"bat-go/token"
 )
 
 type Lexer struct {

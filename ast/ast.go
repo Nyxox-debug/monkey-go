@@ -2,7 +2,7 @@ package ast
 
 import (
 	"bytes"
-	"monkey-go/token"
+	"bat-go/token"
 	"strings"
 )
 
