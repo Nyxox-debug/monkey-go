@@ -1,6 +1,6 @@
 # Bat 🦇
 
-A Simple programming Language written in Go, 
+A Simple programming Language written in Go
 
 ## Features
 
